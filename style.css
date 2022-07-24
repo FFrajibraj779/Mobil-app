@@ -1,0 +1,40 @@
+
+body{
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+.navbar{
+    box-shadow: 2px 2px 2px white;
+}
+
+ .my-color{
+    background:linear-gradient(90deg,blue, violet);
+     
+ }
+h1{
+ 
+}
+.banner-title{
+    color: #2937F0;
+    text-transform: uppercase;
+    font-size: 5rem;
+}
+.waiting{
+    background:linear-gradient(#ddd,#120202, #0e0404, #100303), url(img/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 100vh;
+}
+.waiting h3{
+   font-size: 3rem;
+   color: white;
+   padding: 10px;
+}
+  
